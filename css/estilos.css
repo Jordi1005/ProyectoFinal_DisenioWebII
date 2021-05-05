@@ -47,7 +47,7 @@ body{
   border-radius: 5px;
   margin-left: auto;
   cursor: pointer;
-  content: url(/ProyectoFinal_DisenioWebII/img/menu.png);
+  content: url(img/menu.png);
 }
 .nav {
   position: absolute;
@@ -208,7 +208,7 @@ body{
     } 
     .banner img{
         width: 100%;
-        content: url(/ProyectoFinal_DisenioWebII/img/banner.jpg);
+        content: url(img/banner.jpg);
        
     }
     .info__columna{
